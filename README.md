@@ -1,4 +1,4 @@
-![logo](banner.png)
+![logo](banner(2).png)
 <h1 align="center">Hi 👋, I'm Ariha Noor</h1>
 <h3 align="center">A passionate software engineer creating innovative and efficient solutions.</h3>
 
