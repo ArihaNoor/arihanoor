@@ -59,3 +59,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arihanoor&show_icons=true&locale=en" alt="arihanoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arihanoor&" alt="arihanoor" /></p>
+
+[![An image of @arihanoor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arihanoor)](https://holopin.io/@arihanoor)
