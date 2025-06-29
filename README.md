@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Ariha Noor
 
-### 🚀 Full Stack Engineer | MERN Specialist | MLOps Explorer | Innovation Catalyst
+### 🚀 Software Engineer | MERN Specialist | MLOps Explorer | Innovation Catalyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer+%40+Invitrex;MERN+Stack+Developer;MLOps+Enthusiast;Real-time+Applications+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Invitrex;MERN+Stack+Developer;MLOps+Enthusiast;Real-time+Applications+Builder" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=arihanoor&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
@@ -19,7 +19,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Full Stack Engineer** with **1+ year of professional experience** at **Invitrex**, specializing in building scalable, real-time web applications using the **MERN stack**. Currently expanding my expertise into **MLOps** to create intelligent, data-driven solutions.
+I'm a passionate **Software Engineer** with **1+ year of professional experience** at **Invitrex**, specializing in building scalable, real-time web applications using the **MERN stack**. Currently expanding my expertise into **MLOps** to create intelligent, data-driven solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Currently Working On:**
 - 🏢 Full Stack Development at **Invitrex** (1+ year)
@@ -101,7 +101,7 @@ I'm a passionate **Full Stack Engineer** with **1+ year of professional experien
 
 ## 🏆 Professional Experience
 
-### 💼 **Full Stack Engineer @ Invitrex** *(1+ Year)*
+### 💼 **Software Engineer @ Invitrex** *(1+ Year)*
 - 🚀 Developed and maintained **scalable web applications** using **MERN stack**
 - ⚡ Built **real-time features** with Socket.io for live data synchronization
 - 🔧 Implemented **RESTful APIs** and **GraphQL** endpoints
@@ -155,14 +155,6 @@ I'm a passionate **Full Stack Engineer** with **1+ year of professional experien
 </div>
 
 ---
-
-## 📈 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/arihanoor/arihanoor/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
